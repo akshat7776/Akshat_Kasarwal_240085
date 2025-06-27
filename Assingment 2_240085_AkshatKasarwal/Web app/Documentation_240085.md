@@ -12,7 +12,7 @@ Web app/
 ├── templates/    
    └── model\_web.html          
 
-.pkl will be generated after you convert trained\_model.py into trained\_model.ipynb and run the model.
+.pkl will be generated after runnig of model 
 
 ### **Model Summary**
 
